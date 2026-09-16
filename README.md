@@ -1,84 +1,97 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Software Developer from Earth</h3>
+<h1 align="center">Hi 👋, I'm BHUMIKA</h1>
+<h1 align="center">Hi 👋, I'm Bhumika Bansal</h1>
+<h3 align="center">Computer Science Student | AI & Full Stack Developer | Open Source Learner</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  Passionate about building real-world software that solves meaningful problems through AI, web development and intuitive user experiences.
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your expertise]**
-- ⚡ Fun fact: **[something interesting about you]**
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Learning Full Stack Development (React, Node.js, MongoDB)
+- 🤖 Interested in AI, Voice Interfaces & Microservices
+- 🌱 Currently building **SahayakAI** – a voice-first AI assistant for elderly citizens
+- 📚 Exploring Java, SQL, Linux & Spring Boot
+- ✨ Goal: Become an AI Software Engineer
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📌 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](https://github.com/your-username/project-one) | One-line description of what it does and the problem it solves | React, Node.js |
-| [Project Two](https://github.com/your-username/project-two) | One-line description of what it does and the problem it solves | Python, Flask |
-| [Project Three](https://github.com/your-username/project-three) | One-line description of what it does and the problem it solves | TypeScript |
+### 🧓 SahayakAI
+Voice-first AI assistant that helps elderly citizens with banking guidance, fraud awareness, government grievance support and emotional wellbeing.
+
+**Tech:** React • Node.js • Claude API • Bhashini
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💼 Employee Leave Management System
+A full-stack web application for managing employee leave requests with separate employee and admin dashboards.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🧘 Pilates Class Booking System
+A Java design-pattern based booking application implementing Factory and Decorator patterns.
+
+**Tech:** Java • OOP • Design Patterns
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out for collaborations, questions, or just to say hi!
+## 📫 Connect With Me
 
-<p align="center"><i>Thanks for visiting my profile! ⭐️ from my repositories if you find them useful.</i></p>
+- 💼 LinkedIn: :www.linkedin.com/in/bhumikaa-bansal-020338321
+- 🌐 Portfolio: https://canva.link/u5geyopmq9sboud
+- 📧 Email: bansalbhumika914@gmail.com
 
+---
 
-<!--
-**bansalbhumika/bansalbhumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💭 Quote
 
-Here are some ideas to get you started:
+> *"Building technology that makes people's lives simpler, more accessible and more human."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
+
